@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "glhd-plugins",
+  "description": "Claude Code plugins from Galahad, Inc.",
+  "owner": {
+    "name": "Galahad, Inc.",
+    "url": "https://github.com/glhd"
+  },
+  "plugins": [
+    {
+      "name": "plain-prose",
+      "source": "./plugins/plain-prose",
+      "category": "productivity",
+      "tags": [
+        "writing",
+        "style"
+      ]
+    }
+  ]
+}
