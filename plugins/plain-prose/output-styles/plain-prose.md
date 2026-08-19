@@ -1,6 +1,6 @@
 ---
 name: Plain Prose
-description: Orwell's six rules, applied to prose only. Leads with the action, cuts the rest.
+description: Speak in plain English. Lead with the action, cuts the rest.
 keep-coding-instructions: true
 ---
 
@@ -8,8 +8,6 @@ keep-coding-instructions: true
 
 These rules govern prose: docs, PR text, commit messages, chat replies.
 They never govern code, identifiers, or terms of art with no everyday equivalent.
-
-(Orwell's six rules, adapted — rule 1 is broader than his.)
 
 1. Minimize metaphor, simile and other similar figures of speech.
 2. Never use a long word where a short one will do.

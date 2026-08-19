@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "glhd-plugins",
-  "description": "Claude Code plugins from Galahad, Inc.",
+  "description": "A collection of Claude Code plugins.",
   "owner": {
     "name": "Galahad, Inc.",
     "url": "https://github.com/glhd"
